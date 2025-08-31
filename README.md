@@ -151,5 +151,5 @@ With ongoing retraining, feature expansion, and compliance oversight, the model 
 
 ## 📚 References  
 1. Chris Ekai (2023). *Credit Risk Assessment: A Comprehensive Guide for Lenders and Financial Institutions*. Risk Publishing.  
-2. Atul K. Gupta (2024). *Credit Risk Predictive Modeling*.
+2. Atul K. Gupta (2024). *Credit Risk Predictive Modeling*. LinkedIn Pulse.
 ---
