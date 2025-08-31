@@ -59,14 +59,14 @@ This project leverages **Logistic Regression** to predict loan repayment outcome
 ---
 
 ### Loan Status by Employment Length  
-![Employment vs Loan Status](images/emp_length_vs_status.png)  
+![Employment vs Loan Status]  
 - Longer tenure (10+ years) = highest repayment likelihood.  
 - Defaults remain consistent (~12–15%) across groups:contentReference[oaicite:3]{index=3}.  
 
 ---
 
 ### DTI vs Loan Status  
-![DTI vs Loan Status](images/dti_vs_status.png)  
+![DTI vs Loan Status]  
 - Median DTI:  
   - **Charged Off:** ~14.5%  
   - **Fully Paid:** ~13%  
@@ -75,7 +75,7 @@ This project leverages **Logistic Regression** to predict loan repayment outcome
 ---
 
 ### Interest Rate vs Loan Status  
-![Interest Rate vs Loan Status](images/int_rate_vs_status.png)  
+![Interest Rate vs Loan Status]  
 - Higher interest rates → higher default probability.  
 - Fully repaid loans cluster at lower interest brackets:contentReference[oaicite:5]{index=5}.  
 
@@ -151,7 +151,5 @@ With ongoing retraining, feature expansion, and compliance oversight, the model 
 
 ## 📚 References  
 1. Chris Ekai (2023). *Credit Risk Assessment: A Comprehensive Guide for Lenders and Financial Institutions*. Risk Publishing.  
-2. Atul K. Gupta (2024). *Credit Risk Predictive Modeling*. LinkedIn Pulse.  
-:contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}  
-
+2. Atul K. Gupta (2024). *Credit Risk Predictive Modeling*.
 ---
