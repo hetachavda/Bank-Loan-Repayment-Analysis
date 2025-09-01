@@ -51,7 +51,6 @@ This project leverages **Logistic Regression** to predict loan repayment outcome
 ## 🔎 Exploratory Data Analysis  
 
 ### Loan Status Distribution  
-![Loan Status Distribution](images/loan_status_distribution.png)  
 - **84%** fully repaid  
 - **14%** charged off  
 - **3%** current loans:contentReference[oaicite:2]{index=2}  
