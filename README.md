@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](banner.svg)
+![Banner](assets/banner.svg)
 
 # 🏦 Bank Loan Repayment Analysis
 ### Predicting Loan Defaults with Machine Learning to Reduce Lending Risk
@@ -82,7 +82,7 @@ An accurate model lets lending teams **approve good borrowers faster** and **fla
 
 <div align="center">
 
-![Dashboard](dashboard.svg)
+![Dashboard](assets/dashboard.svg)
 
 *ROC curve, confusion matrix, feature influence, and loan-outcome distribution — all from the model's actual results.*
 
@@ -140,14 +140,17 @@ With **91.5% discriminative accuracy**, this model gives lending teams a data-dr
 
 ```
 Bank-Loan-Repayment-Analysis/
-├── 📄 Final Report.docx                     # Full written analysis
-├── 📊 Final Presentation.pdf                # Stakeholder slide deck
-├── 📈 Global_Superstore2.csv                # Dataset
-├── 📈 Merged_Superstore_With_Suppliers.csv  # Merged dataset
-├── 📈 Supplier_Data_Full.csv                # Supporting data
-├── 🎨 banner.svg                            # Repository banner
-├── 📊 dashboard.svg                         # Performance dashboard
-└── 📝 README.md                             # Project overview
+├── 📁 assets/
+│   ├── 🎨 banner.svg                         # Repository banner
+│   └── 📊 dashboard.svg                      # Performance dashboard
+├── 📁 data/
+│   ├── 📈 Global_Superstore2.csv             # Dataset
+│   ├── 📈 Merged_Superstore_With_Suppliers.csv  # Merged dataset
+│   └── 📈 Supplier_Data_Full.csv             # Supporting data
+├── 📁 docs/
+│   ├── 📄 Final Report.docx                  # Full written analysis
+│   └── 📄 Final Presentation.pdf             # Stakeholder slide deck
+└── 📝 README.md                              # Project overview
 ```
 
 ---
