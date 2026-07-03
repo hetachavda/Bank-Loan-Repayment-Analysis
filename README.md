@@ -140,11 +140,14 @@ With **91.5% discriminative accuracy**, this model gives lending teams a data-dr
 
 ```
 Bank-Loan-Repayment-Analysis/
-├── 📄 Final Report.docx          # Full written analysis
-├── 📊 Final Presentation.pdf     # Stakeholder slide deck
-├── 📈 financial_loan.csv         # Primary dataset
-├── 📈 supplier datasets (2)      # Supporting data
-└── 📝 README.md                  # You are here
+├── 📄 Final Report.docx                     # Full written analysis
+├── 📊 Final Presentation.pdf                # Stakeholder slide deck
+├── 📈 Global_Superstore2.csv                # Dataset
+├── 📈 Merged_Superstore_With_Suppliers.csv  # Merged dataset
+├── 📈 Supplier_Data_Full.csv                # Supporting data
+├── 🎨 banner.svg                            # Repository banner
+├── 📊 dashboard.svg                         # Performance dashboard
+└── 📝 README.md                             # Project overview
 ```
 
 ---
